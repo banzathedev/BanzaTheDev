@@ -1,7 +1,13 @@
-## Hello, i'm Giovanni Raposo Pinheiro, but you can call me Banzai.
+### **<h1>Hello folks, I'm Giovanni Raposo Pinheiro but call me Banzai <img src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif" width="45px"></h1>**
 
-- 🔭 These days i work as Mobile Developer | Kotlin.
-- 🌱 I’m currently learning Flutter and Swift.
+My name is Giovanni Raposo and I'm a mobile development at serasa if you know more or hire me visit the links down below: 
+ <a href = "mailto: g.raposo@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+##
+
+- 🔭 These days i work as Mobile Developer | Kotlin at serasa.
+- 🌱 I’m currently learning more about Kotlin and Android, for the futere maybe Swift? hehe.
 - 😄 Pronouns: He/Him
 
 <div>
@@ -10,21 +16,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banzathedev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Banza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Banza-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img src="https://img.shields.io/badge/Android-Development-green"></img> 
+<img src="https://img.shields.io/badge/Kotlin-Development-blueviolet"/>
   <img align="center" alt="Banza-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
-  <img align="center" alt="Banza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Banza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Banza-Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
-  <img align="center" alt="Banza-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Banza-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="right" alt="banza como treinar seu dragão "  height="200" width="200"src="https://64.media.tumblr.com/909d069f96b4b75805a5c1fdb8b59801/tumblr_n419ug5hB31qjfcybo1_1280.gifv">
+  <img align="right" alt="banza como treinar seu dragão "  height="200" width="400"src="https://media.giphy.com/media/Lag2RrGkYEl3ybH7sG/giphy.gif">
     
   ##
  
 <div> 
-  <a href = "mailto: g.raposo@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/banzathedev/BanzaTheDev/blob/output/github-contribution-grid-snake.svg)
  
