@@ -7,7 +7,7 @@ My name is Giovanni Raposo and I'm a mobile development at serasa if you know mo
 ##
 
 - 🔭 These days i work as Mobile Developer | Kotlin at serasa.
-- 🌱 I’m currently learning more about Kotlin and Android, for the futere maybe Swift? hehe.
+- 🌱 I’m currently learning more about Kotlin and Android, for the future maybe Swift? hehe.
 - 😄 Pronouns: He/Him
 
 <div>
