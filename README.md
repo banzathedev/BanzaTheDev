@@ -1,8 +1,8 @@
 ### **<h1>Hello folks, I'm Giovanni Raposo Pinheiro but call me Banzai <img src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif" width="45px"></h1>**
 
-My name is Giovanni Raposo and I'm a mobile development at serasa if you know more or hire me visit the links down below: 
+My name is Giovanni Raposo and I'm a Tech Lead and Staff Software engineer if you know more or hire me visit the links down below: 
  <a href = "mailto: g.raposo@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/giovanni-raposo-pinheiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ##
 
