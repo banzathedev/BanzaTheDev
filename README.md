@@ -6,8 +6,8 @@ My name is Giovanni Raposo and I'm a Tech Lead and Staff Software engineer if yo
 
 ##
 
-- 🔭 These days i work as Mobile Developer | Kotlin at serasa.
-- 🌱 I’m currently learning more about Kotlin and Android, for the future maybe Swift? hehe.
+- 🔭 These days i work as Tech Lead and Staff Software engineer
+- 🌱 I’m currently learning more about MicroServices, for the future maybe DevSec? hehe.
 - 😄 Pronouns: He/Him
 
 <div>
