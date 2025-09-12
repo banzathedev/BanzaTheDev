@@ -7,7 +7,7 @@ My name is Giovanni Raposo and I'm a Tech Lead and Staff Software engineer if yo
 ##
 
 - 🔭 These days i work as Tech Lead and Staff Software engineer
-- 🌱 I’m currently learning more about MicroServices, for the future maybe DevSec? hehe.
+- 🌱 I’m currently learning more about IOS/Swift, Ci/Cd and KMP.
 - 😄 Pronouns: He/Him
 
 <div>
